@@ -1,0 +1,76 @@
+[
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "desc": "A traditional autentic starter made from chickpeas sesame seed pulp fresh garlic and lemon juice suitable for vegeterian.",
+      "ingr": "",
+      "avl": "Available in the following sizes 180g / 450g / 1000g / 1920g",
+      "adv": "Contains sesame seed",
+      "isVeg": true,
+      "photos": [
+        "houmous2.jpg",
+        "p_0001.jpg"
+      ]
+    },
+    {
+      "id": "taramasalata",
+      "name": "Tarama Salata",
+      "desc": "A traditional mediterranean dish made from smoked cod roe, bread crumbs and lemon juice.",
+      "ingr": "",
+      "avl": "Available in the following sizes 180g / 450g / 1000g / 1920g",
+      "adv": "Gluten Free",
+      "isVeg": false,
+      "photos": [
+        "tarama2.jpg",
+        "p_0002.jpg"
+      ]
+    },
+    {
+      "id": "tzatziki",
+      "name": "Tzatziki",
+      "desc": "A tradional mediterranean starter made from strained yoghurt, fresh cucumber, mint and fresh garlic.",
+      "ingr": "",
+      "avl": "Available in the following sizes 180g / 450g / 1000g / 1920g",
+      "adv": "Gluten Free",
+      "isVeg": true,
+      "photos": [
+        "tzatziki2.jpg",
+        "p_0003.jpg"
+      ]
+    },
+    {
+      "id": "yoghurt",
+      "name": "Yoghurt",
+      "desc": "Strained yoghurt made from fresh cow milk.",
+      "ingr": "",
+      "avl": "Available in the following sizes 180g / 450g / 1000g / 1920g 10Kg",
+      "adv": "Gluten Free",
+      "isVeg": true,
+      "photos": [
+        "yoghurt2.jpg",
+        "p_0005.jpg"
+      ]
+    },
+    {
+      "id": "tahini",
+      "name": "Tahini",
+      "desc": "A fresh starter made from sesame seed pulp, fresh garlic and lemon juice.",
+      "ingr": "",
+      "avl": "Available in the following sizes 180g / 450g",
+      "adv": "Gluten Free",
+      "isVeg": true,
+      "photos": [
+        "p_0004.jpg"
+      ]
+    },
+    {
+      "id": "product6",
+      "name": "",
+      "desc": "",
+      "ingr": "",
+      "avl": "",
+      "adv": "",
+      "isVeg": false,
+      "photos": []
+    }
+  ]
