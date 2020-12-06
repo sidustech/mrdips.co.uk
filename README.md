@@ -1,2 +1,2 @@
-# mrdipscouk
-Mr. Dips LTD
+# mrdips.co.uk
+Mr. Dips Ltd
